@@ -20,3 +20,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
         }
     }
 }
+else
+{
+    $data = "* 83adb89 (HEAD -> main) Retrait de .idea du suivi";
+}
